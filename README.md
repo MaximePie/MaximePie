@@ -4,18 +4,18 @@
 
 If you are a student i've worked with or if you want to train, just pick the Repository you want here, you will find all instructions in French to get started. 
 
-1. (React Entrainement)[https://github.com/MaximePie/react-entrainement]
-2. (Javascript Entrainement)[https://github.com/MaximePie/javascript-entrainement]
+1. [React Entrainement](https://github.com/MaximePie/react-entrainement)
+2. [Javascript Entrainement](https://github.com/MaximePie/javascript-entrainement)
 
-Don't forget to check the videos (here)[https://www.youtube.com/playlist?list=PLxPhnioBp0U15Q3HOkrvgpU_e2aL3PAh3] to correct your work. 
+Don't forget to check the videos [here](https://www.youtube.com/playlist?list=PLxPhnioBp0U15Q3HOkrvgpU_e2aL3PAh3) to correct your work. 
 (Javascript videos are ongoing)
 
 ## 🔭 Currently working on 
 
-- [x] (React training Folder)[https://github.com/MaximePie/react-entrainement]
-- [ ] (Additionnal React training projects)[https://github.com/MaximePie/react-entrainement]
-- [ ] (Javascript training Folder)[https://github.com/MaximePie/javascript-entrainement]
-- [ ] (Learning Buddy)[https://github.com/MaximePie/learningbuddy-front]
+- [x] [React training Folder](https://github.com/MaximePie/react-entrainement)
+- [ ] [Additionnal React training projects](https://github.com/MaximePie/react-entrainement)
+- [ ] [Javascript training Folder](https://github.com/MaximePie/javascript-entrainement)
+- [ ] [Learning Buddy](https://github.com/MaximePie/learningbuddy-front)
 - [ ] Symfony Training
 - [ ] PHP Training
 
@@ -54,4 +54,4 @@ Or you can join my Linked In network here : https://www.linkedin.com/in/maxime-p
 
 ## :dart: Last words
 
-Whatever are your dreams, you are going to reach it. All you need is to start on, support, and a bit of magic programming. You are all doing a good job, you are all going to do something great ! Thanks for readning ! :pray:
+Whatever your dreams are, you are going to reach it. All you need is to start on, support, and a bit of magic programming. You are all doing a good job, you are all going to do something great ! Thanks for readning ! :pray:
